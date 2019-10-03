@@ -1,25 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@arrowwind 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-98
-416336alkacon/opencms-core
- Code Issues 88 Pull requests 13 Projects 0 Security Insights
-opencms-core/src/org/opencms/workplace/CmsWorkplaceManager.java
-@tHerrmann tHerrmann Fixing XML node order issue.
-4f6dae3 on 27 Feb
-@aKandzior@gWestenberger@aZahner@tHerrmann@mEmmerich@dSeidel@latzer@pSmagina
-2546 lines (2184 sloc)  90.7 KB
-  
 /*
  * This library is part of OpenCms -
  * the Open Source Content Management System
